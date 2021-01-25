@@ -20,6 +20,7 @@
 	font-size: 18px;
 	font-family: cursive;
 	background-image: url('../images/misc/DSCF8017afterLR.jpg');
+	box-shadow: 10px 10px 5px #6bd13f;
 }
 
 #topnavParagraph {
