@@ -79,7 +79,7 @@
 }
 
 body {
-	background-image: linear-gradient(to bottom right, white, #D3D3D3);
+	background-image: linear-gradient(#F5F5F5, #696969);
 /*	background-color: #D3D3D3;*/
 	background-repeat: no-repeat;
 	background-position: center;
@@ -265,12 +265,12 @@ img.hover-shadow {
 
 /* On hover, add a black background color with a little bit see-through */
 .prev1:hover, .next1:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.5);
 }
 
 /* Caption text */
 .text1 {
-  color: black;
+  color: white;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -301,7 +301,7 @@ img.hover-shadow {
 }
 
 .dot:hover {
-  background-color: #717171;
+  background-color: white;
 }
 
 /* Fading animation */
